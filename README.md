@@ -10,4 +10,4 @@ Because normal programming is too boring.
 
 # List of projects
 
-- [Brainfuck Calculator](./brainfuck/calculator/) — addition and subtraction in 8 commands.
+- [Brainfuck Calculator](./Brainfuck/calculator/) — addition and subtraction in 8 commands.
